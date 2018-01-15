@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="231.0" prefWidth="454.0" style="-fx-background-color: #ced6e2;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="73.0" layoutY="28.0" prefHeight="49.0" prefWidth="313.0" text="Task Manager v0.1">
+         <font>
+            <Font name="Agency FB Bold" size="41.0" />
+         </font>
+      </Label>
+      <Label fx:id="errorLabel" layoutX="73.0" layoutY="123.0" prefHeight="38.0" prefWidth="375.0" text="Herman Kryzhik and Inom Ayozov (c) 2017">
+         <font>
+            <Font size="17.0" />
+         </font>
+      </Label>
+      <Label fx:id="errorLabel1" layoutX="73.0" layoutY="161.0" prefHeight="38.0" prefWidth="393.0" text="fraarson@gmail.com">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Label>
+      <Label fx:id="errorLabel11" layoutX="73.0" layoutY="85.0" prefHeight="38.0" prefWidth="393.0" text="Course work by:">
+         <font>
+            <Font size="26.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
